@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/Users/henriquematias/GitHub/inteli-modulo-8/Projeto-AMBEV/src/bridge/install/vallet_cpp/include/**",
+        "/Users/henriquematias/GitHub/inteli-modulo-8/Projeto-AMBEV/src/bridge/install/vallet_msgs/include/**",
+        "/Users/henriquematias/anaconda3/envs/ros_env/include/**",
+        "/Users/henriquematias/GitHub/inteli-modulo-8/Projeto-AMBEV/src/bridge/src/vallet_cpp/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

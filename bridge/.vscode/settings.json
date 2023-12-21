@@ -1,0 +1,12 @@
+{
+   "python.autoComplete.extraPaths": [
+      "/Users/henriquematias/GitHub/inteli-modulo-8/Projeto-AMBEV/src/bridge/install/vallet_msgs/lib/python3.10/site-packages",
+      "/Users/henriquematias/anaconda3/envs/ros_env/lib/python310/site-packages",
+      "/Users/henriquematias/anaconda3/envs/ros_env/lib/python3.10/site-packages"
+   ],
+   "python.analysis.extraPaths": [
+      "/Users/henriquematias/GitHub/inteli-modulo-8/Projeto-AMBEV/src/bridge/install/vallet_msgs/lib/python3.10/site-packages",
+      "/Users/henriquematias/anaconda3/envs/ros_env/lib/python310/site-packages",
+      "/Users/henriquematias/anaconda3/envs/ros_env/lib/python3.10/site-packages"
+   ]
+}
